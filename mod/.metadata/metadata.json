@@ -1,14 +1,14 @@
 {
-  "name" : "Name of your Mod",
-  "id" : "com.github.your-github-name.your-repo-name",
-  "version" : "0.1.0",
-  "game_id" : "victoria3",
-  "picture" : "thumbnail.png",
-  "supported_game_version" : "1.8.*",
-  "short_description" : "Description of your Mod",
-  "tags" : [],
-  "relationships" : [],
-  "game_custom_data" : {
+"name" : "Russian America Expanded",
+"id" : "com.github.sizzlingSnitch.Victoria-3-Alaska-Mod",
+"version" : "0.1.0",
+"game_id" : "victoria3",
+"picture" : "russian alaska flag parchokhalq on reddit.jpg",
+"supported_game_version" : "1.8.*",
+"short_description" : "Description of your Mod",
+"tags" : ["Alternative History","Balance","Events","Flags","Gameplay","Journal Entries"],
+"relationships" : [],
+"game_custom_data" : {
     "multiplayer_synchronized" : true
-  }
+}
 }

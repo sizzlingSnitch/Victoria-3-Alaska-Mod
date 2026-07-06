@@ -1,0 +1,13 @@
+﻿on_game_started = {
+    on_actions = {
+        on_rae_start
+    }
+}
+on_rae_start = {
+    effect = {
+        set_global_variable = {
+            name = rae_is_loaded
+            value = yes
+        }
+    }
+}
